@@ -1,0 +1,7 @@
+[package]
+name = "nqueens-rs"
+version = "0.1.0"
+authors = ["Cameron Reid <csreid.cr@gmail.com>"]
+
+[dependencies]
+stopwatch = "0.0.7"
